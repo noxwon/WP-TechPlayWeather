@@ -64,3 +64,5 @@ A: OpenWeatherMap 웹사이트([openweathermap.org](https://openweathermap.org))
 ## License
 
 이 플러그인은 GPLv2 라이센스 하에 무료로 배포됩니다. 자세한 내용은 [여기](https://www.gnu.org/licenses/gpl-2.0.html)에서 확인하실 수 있습니다.
+=======
+# WP-TechPlayWeatherWidget
