@@ -71,6 +71,10 @@ A: OpenWeatherMap 웹사이트([openweathermap.org](https://openweathermap.org))
 - **이메일:** [wonhongsik@gmail.com](mailto:wonhongsik@gmail.com)
 - **웹사이트:** [techplay.blog](https://techplay.blog)
 
+## Credits
+
+이 프로젝트에 사용된 날씨 아이콘은 [Meteocons](https://bas.dev/work/meteocons)에서 제공되었습니다. Meteocons는 다양한 날씨 상황을 나타내는 무료 SVG 아이콘 세트입니다.
+
 ## License
 
 이 플러그인은 GPLv2 라이센스 하에 무료로 배포됩니다. 자세한 내용은 [여기](https://www.gnu.org/licenses/gpl-2.0.html)에서 확인하실 수 있습니다.
