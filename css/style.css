@@ -1,0 +1,51 @@
+#weather-widget {
+  color:var(--cs-color-primary);
+  border-radius: 25px;
+  background-color: var(--cs-color-layout-elements-background);
+  font-size: 1.4rem;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px 20px;
+  position: relative;
+}
+.techplay-weather-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+.techplay-weather-icon.weather img {
+  width: 160px;
+}
+.techplay-weather-icon img {
+  width: 70px;
+}
+.techplay-weather-city {
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.techplay-weather-icon.weather {
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 499px) {
+  #weather-widget {
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px 20px;
+  }
+  .techplay-weather-icon.weather {
+    margin: 0 auto;
+  }
+  .techplay-weather-icon.weather img {
+    width: 120px;
+  }
+  .techplay-weather-icon img {
+    width: 60px;
+  }
+}
