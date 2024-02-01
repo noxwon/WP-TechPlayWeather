@@ -1,4 +1,4 @@
-# 워드프레스 테크플레이 심플 날씨 위젯
+# 워드프레스 테크플레이 심플 날씨 플러그인
 
 **Contributors:** NoxWon  
 **Donate link:** [techplay.blog](https://techplay.blog)  
